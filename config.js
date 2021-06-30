@@ -1,19 +1,16 @@
 const CONFIG = {
-    introTitle: 'Babe à!',
-    introDesc: `Trái đất vốn lạ thường
-    Mà sao em cứ đi nhầm đường
-    Lạc vào tim anh lẻ loi
-    Đằng sau chữ yêu đây là thương`,
-    btnIntro: 'hihi',
-    title: 'Phải chăng em đã yêu ngay từ cái nhìn đầu tiên 😙',
-    desc: 'Phải chăng em đã say ngay từ lúc thấy nụ cười ấy ',
-    btnYes: 'Vẫn cứ là thích anh <33',
-    btnNo: 'Không, Anh trai à :3',
-    question:'Trên thế giới hơn 7 tỉ người mà sao em lại yêu anh <3',
-    btnReply: 'Gửi cho anh <3',
-    reply: 'Yêu thì yêu mà không yêu thì yêu <33333333',
-    mess: 'Anh biết mà 🥰. Yêu em nhiều nhiều 😘😘',
-    messDesc: 'Tối nay 7h anh qua đón nhé công chúa.',
-    btnAccept: 'Okiiiii lun <3',
-    messLink: 'http://fb.com' //link mess của các bạn. VD: https://m.me/nam.nodemy
+    introTitle: 'Nắng à!',
+    introDesc: `Bão có lời muốn nói với Nắng á có muốn nghe chứ`,
+    btnIntro: 'ok được thôi',
+    title: 'thật ra hồi trước Bão có thích Nắng mà không dám nói á 😙',
+    desc: 'Bão biết Nắng không thích Bão nên chỉ muốn hỏi là Nắng có 1 chút tình cảm cho Bão không ',
+    btnYes: 'có một chút <33',
+    btnNo: 'Không, Bão à :3',
+    question:'thật hả <3',
+    btnReply: 'Gửi cho Bão <3',
+    reply: 'ừ có một chút <33333333',
+    mess: 'Bão biết mà 🥰. Yêu Nắng nhiều nhiều 😘😘',
+    messDesc: 'hì hì làm cho vui thôi Nắng thấy hay không.',
+    btnAccept: 'muốn nói gì thì nhắn tin cho Bão nhó <3',
+    messLink: 'https://www.facebook.com/mtplatao.sky.C9/' //link mess của các bạn. VD: https://m.me/nam.nodemy
 }
